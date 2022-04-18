@@ -1,0 +1,1 @@
+var vsWebRTCClient = VSWebRTCClient.getInstance();
